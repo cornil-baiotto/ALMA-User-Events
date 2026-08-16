@@ -4,7 +4,7 @@ All material (slides, codes) presented during the following workshops will be up
 
 >- ALMA Proposal Preparation, [Universidad de Valparaíso](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-valparaiso26) (UV), March 20, 2026
 >- ALMA Proposal Preparation, [Universidad de Atacama](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-atacama26) (UDA), March 25, 2026
->- ALMA Data Processing, Universidad de Concepción, October 22-23, 2026
+>- ALMA Data Processing, Universidad de Concepción (UdeC), October 22-23, 2026
 
 These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/alma/ambassadors-program).
 
