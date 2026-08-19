@@ -4,7 +4,7 @@ All material (slides, codes) presented during the following workshops will be up
 
 >- ALMA Proposal Preparation, [Universidad de Valparaíso](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-valparaiso26) (UV), March 20, 2026
 >- ALMA Proposal Preparation, [Universidad de Atacama](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-atacama26) (UDA), March 25, 2026
->- ALMA Data Processing, Universidad de Concepción (UdeC), October 22-23, 2026
+>- ALMA Data Processing, [Universidad de Concepción](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-concepcion26) (UdeC), October 22-23, 2026
 
 These events were supported by NRAO/[NAASC](https://science.nrao.edu/facilities/alma/ambassadors-program).
 
@@ -32,7 +32,7 @@ These events were supported by NRAO/[NAASC](https://science.nrao.edu/facilities/
  3.3. Spectral Line Imaging <br>
  3.4. Visualization with CARTA <br>
  3.5. Data Analysis and Science <br>
- 3.6. ALMA Data Challenge
+ 3.6. ALMA Data Challenge (TBC)
 
 #
 
@@ -43,5 +43,5 @@ These events were supported by NRAO/[NAASC](https://science.nrao.edu/facilities/
 >- Download [CASA v6.7](https://casa.nrao.edu/)
 >- [List of CASA tasks](https://casadocs.readthedocs.io/en/stable/api/casatasks.html)
 >- Data reduction [cheat sheet](https://github.com/cornil-baiotto/Astro-Tutorials/blob/main/casa_almadr_2025v1.pdf)
->- Download [CARTA v5.1](https://cartavis.org/)
+>- Download [CARTA v6.0](https://cartavis.org/)
 >- [ALMA schematic figures](https://drive.google.com/drive/folders/1JlXHTZqovMDQcEMiH5vDaevE4u5Wvzz0?usp=drive_link)
