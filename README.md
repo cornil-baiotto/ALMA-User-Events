@@ -28,11 +28,11 @@ These events were supported by NRAO/[NAASC](https://science.nrao.edu/facilities/
 
 ### ALMA Data Processing
 >3.1. Introduction to CASA <br>
- 3.2. MFS and Continuum Imaging <br>
- 3.3. Spectral Line Imaging <br>
- 3.4. Visualization with CARTA <br>
- 3.5. Data Analysis and Science <br>
- 3.6. ALMA Data Challenge (TBC)
+ 3.2. Data Retrieval & Calibration <br>
+ 3.3. MFS and Continuum Imaging <br>
+ 3.4. Spectral Line Imaging <br>
+ 3.5. Visualization with CARTA <br>
+ 3.6. Data Analysis and Science <br>
 
 #
 
