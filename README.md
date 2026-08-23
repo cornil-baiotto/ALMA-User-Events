@@ -31,7 +31,7 @@ These events were supported by NRAO/[NAASC](https://science.nrao.edu/facilities/
  3.2. Data Retrieval and Calibration <br>
  3.3. Continuum and Spectral Line Imaging <br>
  3.4. Visualization with CARTA <br>
- 3.5. Data Analysis and Science <br>
+ 3.5. Data Analysis and Physical Quantities <br>
 
 #
 
