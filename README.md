@@ -6,7 +6,7 @@ All material (slides, codes) presented during the following workshops will be up
 >- ALMA Proposal Preparation, [Universidad de Atacama](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-atacama26) (UDA), March 25, 2026
 >- ALMA Data Reduction, [Universidad de Concepción](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-dr-concepcion26) (UdeC), October 22-23, 2026
 
-These events were supported by NRAO/[NAASC](https://science.nrao.edu/facilities/alma/ambassadors-program).
+These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/alma/ambassadors-program).
 
 #
 
@@ -27,7 +27,7 @@ These events were supported by NRAO/[NAASC](https://science.nrao.edu/facilities/
 #
 
 ### ALMA Data Reduction
->3.1. Introduction to CASA <br>
+>3.1. Brief Introduction to CASA <br>
  3.2. Data Retrieval & Calibration <br>
  3.3. Continuum & Spectral Line Imaging <br>
  3.4. Data Visualization with CARTA <br>
