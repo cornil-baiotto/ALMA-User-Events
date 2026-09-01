@@ -43,5 +43,3 @@ Hands-on sessions will adopt the approach described in these [ALMA data reductio
 >- [ALMA Science Archive](https://almascience.nrao.edu/aq/)
 >- [ALMA Observing Tool](https://cycle-13.sps.alma.cl/ngot/)
 >- Full list of [CASA tasks](https://casadocs.readthedocs.io/en/stable/api/casatasks.html)
->- [ALMA data reduction notes](https://github.com/cornil-baiotto/Astro-Tutorials/blob/main/casa_almadr_2025v1.pdf)
->- [ALMA schematic figures](https://drive.google.com/drive/folders/1JlXHTZqovMDQcEMiH5vDaevE4u5Wvzz0?usp=drive_link)
