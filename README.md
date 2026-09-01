@@ -38,7 +38,7 @@ These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/a
 
 ### Useful Links
 >- Create an [ALMA user account](https://asa.alma.cl/UserRegistration/newAccount.jsp?arc=eu)
->- [ALMA Science Archive](https://almascience.nrao.edu/aq/?result_view=observations)
+>- [ALMA Science Archive](https://almascience.nrao.edu/aq/)
 >- [ALMA Observing Tool](https://cycle-13.sps.alma.cl/ngot/)
 >- Download [CASA v6.7](https://casa.nrao.edu/)
 >- Data reduction [cheat sheet](https://github.com/cornil-baiotto/Astro-Tutorials/blob/main/casa_almadr_2025v1.pdf)
