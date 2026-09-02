@@ -27,8 +27,7 @@ These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/a
 #
 
 ### ALMA Data Reduction
-We will follow this tentative [program](docs/UdeC_program.pdf). <br> 
-Hands-on sessions will be based on these [ALMA data reduction notes](https://github.com/cornil-baiotto/Astro-Tutorials/blob/main/casa_almadr_2025v1.pdf). <br>
+We will follow this tentative workshop [program](docs/UdeC_program.pdf), with hands-on sessions based on these [ALMA data reduction notes](https://github.com/cornil-baiotto/Astro-Tutorials/blob/main/casa_almadr_2025v1.pdf). <br>
 >3.1. Getting Started with [CASA](https://casa.nrao.edu/) <br>
  3.2. Data Retrieval & Calibration <br>
  3.3. Continuum & Spectral Line Imaging <br>
