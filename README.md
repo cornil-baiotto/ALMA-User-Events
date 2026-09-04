@@ -33,7 +33,7 @@ We will follow this workshop [program](docs/UdeC_program.pdf), with hands-on ses
  3.3. Continuum & Spectral Line Imaging <br>
  3.4. Data Visualization with [CARTA](https://cartavis.org/) <br>
  3.5. Analysis & Physical Quantities <br>
- 3.6. Mini Data Reduction Challenge
+ 3.6. Mini ALMA Data Challenge
 
 #
 
