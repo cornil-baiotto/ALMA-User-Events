@@ -1,4 +1,4 @@
-## :milky_way: ALMA Cycle 13 User-Training Events in Chile
+## :milky_way: :satellite: ALMA Cycle 13 User-Training Events in Chile
 
 All material (slides, codes) presented during the following workshops will be uploaded to this repository.
 
@@ -10,13 +10,9 @@ These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/a
 
 <img src="./docs/ALMAcube.gif" alt="ALMA spectral line cube animation" width="200"/>
 
-#
-
 ### Introduction
 >1.1. Basics of Radio Interferometry [[slides](docs/1.1_Basics-of-Radio-Interferometry.pdf)] <br>
  1.2. ALMA Science and Capabilities [[slides](docs/1.2_ALMA-Science-and-Capabilities.pdf)]
-
-#
 
 ### ALMA Proposal Preparation
 >2.1. Cycle 13 Capabilities [[slides](docs/2.1_ALMA-Cycle-13-Capabilities.pdf)] <br>
@@ -26,8 +22,6 @@ These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/a
  2.5. Mock Observations [[slides](docs/2.5_ALMA-Mock-Observations.pdf), [code](docs/ALMA-Mock-Obs.ipynb)] <br>
  2.6. Observing Tool (OT) [[slides](docs/2.6_ALMA-Observing-Tool.pdf)]
 
-#
-
 ### ALMA Data Reduction
 We will follow this tentative [program](docs/UdeC_program.pdf), with hands-on sessions based on these [ALMA data reduction notes](https://github.com/cornil-baiotto/Observing-Tutorials/blob/main/casa_almadr_2026v2.pdf). <br>
 >3.1. Getting Started with [CASA](https://casa.nrao.edu/) <br>
@@ -36,8 +30,6 @@ We will follow this tentative [program](docs/UdeC_program.pdf), with hands-on se
  3.4. Data Visualization with [CARTA](https://cartavis.org/) <br>
  3.5. Analysis & Physical Quantities <br>
  3.6. Mini ALMA Data Challenge
-
-#
 
 ### Useful Links
 >- Create an [ALMA user account](https://asa.alma.cl/UserRegistration/newAccount.jsp?arc=eu)
