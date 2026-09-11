@@ -8,6 +8,8 @@ All material (slides, codes) presented during the following workshops will be up
 
 These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/alma/ambassadors-program).
 
+<img src="./docs/ALMAcube.gif" alt="ALMA spectral line cube animation" width="150"/>
+
 #
 
 ### Introduction
