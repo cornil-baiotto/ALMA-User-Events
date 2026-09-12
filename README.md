@@ -36,3 +36,5 @@ Workshop [program](docs/UdeC_program.pdf) || Data reduction [guidelines](https:/
 >- [ALMA Science Archive](https://almascience.nrao.edu/aq/)
 >- [ALMA Observing Tool](https://cycle-13.sps.alma.cl/ngot/)
 >- Full list of [CASA tasks](https://casadocs.readthedocs.io/en/stable/api/casatasks.html)
+
+<sub>Contact: carla.cornil@postgrado.uv.cl</sub>
