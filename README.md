@@ -5,8 +5,9 @@ All material (slides, codes) presented during the following workshops will be up
 >- ALMA Proposal Preparation, [Universidad de Valparaíso](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-valparaiso26) (UV), March 20, 2026
 >- ALMA Proposal Preparation, [Universidad de Atacama](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-atacama26) (UDA), March 25, 2026
 >- ALMA Data Reduction, [Universidad de Concepción](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-dr-concepcion26) (UdeC), October 22-23, 2026
+>- Introduction to ALMA and CARTA, [II CLASTROEx](https://sites.google.com/view/clastroex2026/home) (UTFSM), November 23, 2026
 
-These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/alma/ambassadors-program).
+The three first events were funded by NRAO/[NAASC](https://science.nrao.edu/facilities/alma/ambassadors-program).
 
 <img src="./docs/ALMAcube.gif" alt="ALMA spectral line cube animation" width="200"/>
 
