@@ -25,17 +25,26 @@ The three first events were funded by NRAO/[NAASC](https://science.nrao.edu/faci
 
 ### ALMA Data Reduction
 Workshop [program](docs/UdeC_program.pdf) || Data reduction [guidelines](https://github.com/cornil-baiotto/Observing-Tutorials/blob/main/casa_almadr_2026v2.pdf) <br>
->3.1. Getting Started with [CASA](https://casa.nrao.edu/) <br>
+>3.1. Getting Started with CASA <br>
  3.2. Restoring Calibrated uv-Products <br>
  3.3. Continuum & Spectral Line Imaging <br>
- 3.4. Data Visualization with [CARTA](https://cartavis.org/) <br>
+ 3.4. Data Visualization with CARTA <br>
  3.5. Analysis & Physical Quantities <br>
  3.6. Mini ALMA Data Challenge
 
+### CLASTROEx/ALMA Workshop
+>a. Introducción a la Radiointerferometría y ALMA <br>
+ b. Sesión Práctica: Visualización de Datos con CARTA
+
+>**Para preparar el workshop:** <br>
+ ✦ Descargar [CARTA v6.0](https://cartavis.org/#download) <br>
+ ✦ Descargar este [cubo de ALMA](https://drive.google.com/file/d/1UInlzPr1IruOlu4EN-mkdEvIVcxq0QUp/view?usp=sharing)
+
 ### Useful Links
->- Create an [ALMA user account](https://asa.alma.cl/UserRegistration/newAccount.jsp?arc=eu)
->- [ALMA Science Archive](https://almascience.nrao.edu/aq/)
->- [ALMA Observing Tool](https://cycle-13.sps.alma.cl/ngot/)
->- Full list of [CASA tasks](https://casadocs.readthedocs.io/en/stable/api/casatasks.html)
+>✦ Create an [ALMA user account](https://asa.alma.cl/UserRegistration/newAccount.jsp?arc=eu) <br>
+ ✦ ALMA [Science Archive](https://almascience.nrao.edu/aq/) <br>
+ ✦ ALMA [Observing Tool](https://cycle-13.sps.alma.cl/ngot/) <br>
+ ✦ Full list of [CASA tasks](https://casadocs.readthedocs.io/en/stable/api/casatasks.html) <br>
+ ✦ ALMA schematic [figures](https://drive.google.com/drive/folders/1JlXHTZqovMDQcEMiH5vDaevE4u5Wvzz0?usp=sharing)
 
 <sub></sub>
