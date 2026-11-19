@@ -35,10 +35,12 @@ The three first events were funded by NRAO/[NAASC](https://science.nrao.edu/faci
  3.6. Mini ALMA Data Challenge
 
 ### CLASTROEx/ALMA Workshop
+>**Fecha:** Lunes 23 de noviembre, de 15:40 a 17:00 h <br>
+ **Lugar:** UTFSM, Edificio E, Sala E300 [[programa](docs/clastroex_program.pdf)]
+ 
  >**Programa del taller:** <br>
  a. Introducción a la Radiointerferometría y ALMA <br>
  b. Sesión Práctica: Visualización de Datos con CARTA <br>
- **Lugar:** UTFSM, Edificio E, Sala E300 [[programa](docs/clastroex_program.pdf)]
 
 >**Para preparar el workshop:** <br>
  ✦ Descargar [CARTA v6.0](https://cartavis.org/#download) <br>
