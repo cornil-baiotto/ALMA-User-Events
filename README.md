@@ -24,7 +24,9 @@ The three first events were funded by NRAO/[NAASC](https://science.nrao.edu/faci
  2.6. Observing Tool (OT) [[slides](docs/2.6_ALMA-Observing-Tool.pdf)]
 
 ### ALMA Data Reduction
-Workshop [program](docs/UdeC_program.pdf) || Data reduction [guidelines](https://github.com/cornil-baiotto/Observing-Tutorials/blob/main/casa_almadr_2026v2.pdf) <br>
+>✦ Workshop [program](docs/UdeC_program.pdf) <br>
+ ✦ Data reduction [guidelines](https://github.com/cornil-baiotto/Observing-Tutorials/blob/main/casa_almadr_2026v2.pdf)
+
 >3.1. Getting Started with CASA <br>
  3.2. Restoring Calibrated uv-Products <br>
  3.3. Continuum & Spectral Line Imaging <br>
@@ -33,8 +35,10 @@ Workshop [program](docs/UdeC_program.pdf) || Data reduction [guidelines](https:/
  3.6. Mini ALMA Data Challenge
 
 ### CLASTROEx/ALMA Workshop
->a. Introducción a la Radiointerferometría y ALMA <br>
- b. Sesión Práctica: Visualización de Datos con CARTA
+ >**Programa del taller:** <br>
+ a. Introducción a la Radiointerferometría y ALMA <br>
+ b. Sesión Práctica: Visualización de Datos con CARTA <br>
+ **Lugar:** UTFSM, Edificio E, Sala E300 [[programa](docs/clastroex_program.pdf)]
 
 >**Para preparar el workshop:** <br>
  ✦ Descargar [CARTA v6.0](https://cartavis.org/#download) <br>
