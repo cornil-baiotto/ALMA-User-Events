@@ -39,7 +39,7 @@ The three first events were funded by NRAO/[NAASC](https://science.nrao.edu/faci
  **Lugar:** UTFSM, Edificio E, Sala E300 [[programa](docs/clastroex_program.pdf)]
  
  >**Programa del taller:** <br>
- a. Introducción a la Radiointerferometría y ALMA <br>
+ a. Introducción a la Radiointerferometría y ALMA [[slides](docs/Introducción-ALMA.pdf)] <br>
  b. Sesión Práctica: Visualización de Datos con CARTA <br>
 
 >**Para preparar el workshop:** <br>
