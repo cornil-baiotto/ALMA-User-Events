@@ -36,7 +36,7 @@ The three first events were funded by NRAO/[NAASC](https://science.nrao.edu/faci
 
 ### CLASTROEx/ALMA Workshop
 >a. Introducción al Observatorio ALMA [[slides](docs/Introducción-ALMA.pdf)] <br>
- b. Sesión Práctica con CARTA [[datos](https://drive.google.com/file/d/1UInlzPr1IruOlu4EN-mkdEvIVcxq0QUp/view?usp=sharing)]
+ b. Sesión Práctica con CARTA v6.0 [[datos](https://drive.google.com/file/d/1UInlzPr1IruOlu4EN-mkdEvIVcxq0QUp/view?usp=sharing)]
 
 ### Useful Links
 >✦ Create an [ALMA user account](https://asa.alma.cl/UserRegistration/newAccount.jsp?arc=eu) <br>
