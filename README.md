@@ -2,12 +2,12 @@
 
 All material (slides, codes) presented during the following workshops will be uploaded to this repository.
 
->- ALMA Proposal Preparation, [Universidad de Valparaíso](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-valparaiso26) (UV), March 20, 2026
->- ALMA Proposal Preparation, [Universidad de Atacama](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-atacama26) (UDA), March 25, 2026
->- ALMA Data Reduction, [Universidad de Concepción](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-dr-concepcion26) (UdeC), October 22-23, 2026
+>- ALMA Proposal Preparation<sup>★</sup>, [Universidad de Valparaíso](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-valparaiso26) (UV), March 20, 2026
+>- ALMA Proposal Preparation<sup>★</sup>, [Universidad de Atacama](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-atacama26) (UDA), March 25, 2026
+>- ALMA Data Reduction<sup>★</sup>, [Universidad de Concepción](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-dr-concepcion26) (UdeC), October 22-23, 2026
 >- Introduction to ALMA and CARTA, [II CLASTROEx](https://sites.google.com/view/clastroex2026/home) (UTFSM), November 23, 2026
 
-The three first events were funded by NRAO/[NAASC](https://science.nrao.edu/facilities/alma/ambassadors-program).
+(★) Workshops funded by NRAO/[NAASC](https://science.nrao.edu/facilities/alma/ambassadors-program).
 
 <img src="./docs/ALMAcube.gif" alt="ALMA spectral line cube animation" width="200"/>
 
@@ -43,6 +43,7 @@ The three first events were funded by NRAO/[NAASC](https://science.nrao.edu/faci
  ✦ ALMA [Science Archive](https://almascience.nrao.edu/aq/) <br>
  ✦ ALMA [Observing Tool](https://cycle-13.sps.alma.cl/ngot/) <br>
  ✦ Full list of [CASA tasks](https://casadocs.readthedocs.io/en/stable/api/casatasks.html) <br>
+ ✦ ALMA photo [gallery](https://alma-telescope.jp/en/gallerytag/aos/) <br>
  ✦ ALMA schematic [figures](https://drive.google.com/drive/folders/1JlXHTZqovMDQcEMiH5vDaevE4u5Wvzz0?usp=sharing)
 
 <sub></sub>
