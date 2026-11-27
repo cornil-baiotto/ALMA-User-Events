@@ -1,6 +1,6 @@
 ## :milky_way: :satellite: ALMA User Training Events in Chile
 
-All material (slides, codes) presented during the following workshops will be uploaded to this repository.
+All workshop materials from the following events will be uploaded to this repository.
 
 >- ALMA Proposal Preparation<sup>★</sup>, [Universidad de Valparaíso](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-valparaiso26) (UV), March 20, 2026
 >- ALMA Proposal Preparation<sup>★</sup>, [Universidad de Atacama](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-atacama26) (UDA), March 25, 2026
